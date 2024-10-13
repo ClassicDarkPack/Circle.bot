@@ -12,4 +12,4 @@ This is a simple Telegram bot built using Node.js.
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/ClassicDarkPack/Circle.bot.git)
+   git clone https://github.com/ClassicDarkPack/Circle.bot.git
